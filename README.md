@@ -13,6 +13,8 @@ npm install:
 
 ` eslint-plugin-header`
 
+` prop-types`
+
 **After installed these packages:**
 
 Create _.eslintrc.json_ at root project and paste this content following:
