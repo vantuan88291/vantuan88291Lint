@@ -11,9 +11,11 @@ npm install:
 
 ` eslint-plugin-react`
 
+` eslint-plugin-header`
+
 **After installed these packages:**
 
-Create _.eslintrc.json_ at root project following:
+Create _.eslintrc.json_ at root project and paste this content following:
 
 ```{
    "extends": [
@@ -74,4 +76,4 @@ Create _.eslintrc.json_ at root project following:
  indent_size = 4
 ```
 
-On PHPStorm: setting(Preferences on Macos) -> Languages & Framework -> JavaScript -> Code quality tools -> ESlint -> Disable and Enable again. 
+On PHPStorm: Setting(Preferences on Macos) -> Languages & Framework -> JavaScript -> Code quality tools -> ESlint -> Disable and Enable again. 
