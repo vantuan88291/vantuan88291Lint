@@ -19,7 +19,8 @@ npm install:
 
 Create _.eslintrc.json_ at root project and paste this content following:
 
-```{
+```
+{
    "extends": [
      "./node_modules/vantuan88291lint/.eslintrc.json",
      "./node_modules/vantuan88291lint/.eslintrc-react.json"
