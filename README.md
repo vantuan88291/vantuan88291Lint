@@ -1,17 +1,10 @@
 # vantuan88291lint
 
 ### Please install list packages following:
-npm install:
 
-` vantuan88291lint`
+`npm install --save vantuan88291lint eslint eslint-plugin-jest eslint-plugin-react eslint-plugin-header`
 
-` eslint`
-
-` eslint-plugin-jest`
-
-` eslint-plugin-react`
-
-` eslint-plugin-header`
+check your project include prop-types or not, if not install it:
 
 ` prop-types`
 
